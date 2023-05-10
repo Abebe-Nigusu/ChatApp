@@ -2,7 +2,7 @@
 
 
 <p>Welcome to my page! </br> I'm Abebe, Fullstack developer currently living in <b>Minnesota, USA</b>. </p>
-<h3>Things I code with</h3>
+<h3>Languages and Tech tools I code with</h3>
 <p>
   
  
